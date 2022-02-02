@@ -2,5 +2,6 @@
 #naver/kakao/sk/samsung
 
 print("naver", "kakao", "samsung", sep="/")
+
 #아래의 코드도 동일한 결과가 출력된다.
 #print("naver/kakao/samsung")
